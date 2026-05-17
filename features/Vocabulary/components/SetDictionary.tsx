@@ -123,7 +123,7 @@ const SetDictionary = memo(function SetDictionary({
                 <span>{displayReading}</span>
                 <span
                   className={clsx(
-                    'flex h-5 w-5 items-center justify-center rounded-full bg-(--card-color) text-(--main-color)',
+                    'flex h-6 w-6 items-center justify-center rounded-full bg-(--card-color) text-(--main-color)',
                     'transition-colors duration-200',
                     'max-md:group-active:bg-(--main-color)/15',
                     'md:group-hover:bg-(--main-color)/15',
