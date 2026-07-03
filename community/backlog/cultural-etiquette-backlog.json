@@ -464,7 +464,7 @@
     "dont": "無連絡で遅れて言い訳を続ける",
     "note": "先に謝罪が基本。",
     "id": 52,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -473,7 +473,7 @@
     "dont": "禁止場所で撮影する",
     "note": "御本尊周辺は撮影不可が多い。",
     "id": 53,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -563,7 +563,7 @@
     "dont": "通話を続ける",
     "note": "混雑時は特に配慮する。",
     "id": 63,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -608,7 +608,7 @@
     "dont": "タオルを湯船に入れる",
     "note": "共同浴場の基本ルール。",
     "id": 68,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -734,7 +734,7 @@
     "dont": "土足で室内に上がる",
     "note": "家庭・旅館では基本マナー。",
     "id": 82,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -815,7 +815,7 @@
     "dont": "値段を強調する",
     "note": "謙遜表現が好まれる。",
     "id": 91,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
